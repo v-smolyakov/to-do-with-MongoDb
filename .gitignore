@@ -1,0 +1,4 @@
+#Игнор node файлов
+node_modules
+#Игнор .env
+.env

@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    margin: auto;
+}
+.all{
+    margin: auto;
+}
+.container-class{
+    display: flex;
+    align-items: center;
+    width: 20%;
+}
+.text-task{
+    font-size: 18px;
+    color: brown;
+}
+.done-text{
+    font-size: 18px;
+    color: rgba(0,0,0,0.3);
+    text-decoration: line-through;
+}
+.image{
+    width: 30%;
+}
